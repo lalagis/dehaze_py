@@ -1,0 +1,24 @@
+# PaddleRS
+PaddleRS
+
+# cache 
+__pycache__
+
+# data
+data
+
+# mac
+.DS_Store
+
+# train logs
+output
+
+# build
+build
+
+# dist
+dist
+
+# chores
+dehaze_py.spec
+generated-4ad3a00f561a64b93ed82808e7ff09eced2d71fefc361f19d68ecab70e926e9d.icns
